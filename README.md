@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
+## Features
+ - Shows  movie list
+ - Shows a movie details in a new page
+ - Filter movie list by genre
+
 ## Download The Project 
 
 Run `git clone https://github.com/forhadmethun/Simple-Movie-List-Application.git`
