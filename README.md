@@ -2,7 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
+## Download The Project 
+
+Run `git clone https://github.com/forhadmethun/Simple-Movie-List-Application.git`
+
 ## Development server
+Make sure that nodejs is installed already. 
+
+After downloading the project run the following command 
+`npm install`
+
+then,
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
